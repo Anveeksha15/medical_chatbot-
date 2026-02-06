@@ -11,7 +11,7 @@ DB_FAISS_PATH = "../vectorstores/db_faiss"
 custom_prompt = """You are a knowledgeable medical assistant.
 Use the provided context to answer the user's question accurately and concisely.
 If the context does not contain the answer, respond with:
-"I'm sorry, I don't have that information."
+"I'm sorry, I don't have that information.."
 
 Context:
 {context}
