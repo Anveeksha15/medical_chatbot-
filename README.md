@@ -189,6 +189,5 @@ This project is released under the **MIT License**.
 
 ---
 
-## ⭐ If you found this useful
 
-Give the repo a ⭐ and feel free to fork or improve it!
+
