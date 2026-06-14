@@ -41,11 +41,11 @@ med_chatbot/
 ├── data/
 │   ├── model.py          # Streamlit app (RAG pipeline + UI)
 │   ├── ingest.py         # Document ingestion & FAISS indexing
-│   └── requirements.txt
 │
 ├── vectorstores/
 │   └── db_faiss/         # FAISS index (generated)
 │
+├──requirements.txt
 ├── README.md
 └── venv/                 # (optional) virtual environment
 ```
