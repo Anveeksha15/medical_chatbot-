@@ -1,4 +1,4 @@
-# 🩺 Medical RAG Chatbot (Local LLM + FAISS)
+# 🩺 Medical RAG Chatbot (Local LLM + FAISS) 
 
 A **local, privacy‑friendly medical question‑answering chatbot** built using **LangChain**, **FAISS**, **CTransformers (GGUF)**, and **Streamlit**.
 
