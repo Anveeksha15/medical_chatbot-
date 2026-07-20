@@ -38,9 +38,9 @@ Answer Displayed in Streamlit Chat
 ```
 med_chatbot/
 │
-├── data/
-│   ├── model.py          # Streamlit app (RAG pipeline + UI)
-│   ├── ingest.py         # Document ingestion & FAISS indexing
+├── data              # Book
+├── model.py          # Streamlit app (RAG pipeline + UI)
+├──ingest.py         # Document ingestion & FAISS indexing
 │
 ├── vectorstores/
 │   └── db_faiss/         # FAISS index (generated)
