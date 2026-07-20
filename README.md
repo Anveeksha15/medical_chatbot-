@@ -172,12 +172,6 @@ These settings are optimized for **CPU‑based GGUF models**.
 
 ---
 
-## 📜 License
-
-This project is released under the **MIT License**.
-
----
-
 ## 🙌 Acknowledgements
 
 * LangChain
